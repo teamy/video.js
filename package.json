@@ -121,7 +121,7 @@
     "npm-run-all": "^4.1.5",
     "postcss-cli": "^6.1.2",
     "qunit": "^2.9.2",
-    "remark-cli": "^6.0.1",
+    "remark-cli": "^11.0.0",
     "remark-lint": "^6.0.4",
     "remark-parse": "^6.0.3",
     "remark-stringify": "^6.0.4",
@@ -150,7 +150,7 @@
     "videojs-generate-karma-config": "~5.2.1",
     "videojs-languages": "^2.0.0",
     "videojs-standard": "^8.0.3",
-    "webpack": "^1.15.0"
+    "webpack": "^5.75.0"
   },
   "vjsstandard": {
     "ignore": [
